@@ -21,6 +21,10 @@ cd into the directory
 
 ```cd badapple```
 
+make the start file executable
+
+```chmod +x start.sh```
+
 now the only thing you have to do is execute the start file
 
 ```./start.sh```
